@@ -2,5 +2,6 @@
 <project name="Hello World Project" default="info">
 <target name="info">
 <echo> Hello World - Welcome to Simplilearn</echo>
+<echo> line 2 testing</echo>
 </target>
 </project>
